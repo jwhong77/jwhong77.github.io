@@ -1,4 +1,4 @@
-title: Your awesome title
+title: A Gestalt World
 author: Jiwoo Hong
 email: ndolphin2020@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -38,7 +38,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: jekyll
+    email: ndolphin@gmail.com
 
     # Mastodon instances
     # mastodon:
